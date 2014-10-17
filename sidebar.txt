@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yin:home|Door43 (yin)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yin|d43-yin repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yin/archive/master.zip|d43-yin.zip]]
+
+**Recent Changes**
+{{changes>ns = yin}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yin|Ethnologue data]]
+
